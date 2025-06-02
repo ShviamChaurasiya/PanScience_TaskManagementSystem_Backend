@@ -178,20 +178,4 @@ JWT token is required for all protected routes.
 - Regular users can only view and manage their own tasks.
 - Admin-only endpoints are protected and return `403 Forbidden` if accessed by non-admin users.
 
----
 
-## Running Tests
-
-Tests are not implemented yet but you can add tests using frameworks like Jest or Mocha.
-
----
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License.
